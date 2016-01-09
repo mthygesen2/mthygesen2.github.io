@@ -1,0 +1,14 @@
+
+div.opening {
+  margin: 5%;
+  padding: 20%;
+  text-align: left;
+}
+h3 {
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+}
+#navbar {
+    padding-right: 5%;
+    background-color:  #e5fff5;
+}

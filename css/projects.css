@@ -1,0 +1,24 @@
+
+div.opening {
+  margin: 5%;
+  padding-top: 2%;
+  text-align: left;
+  position: relative;
+}
+
+h3 {
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+#navbar {
+    padding-right: 5%;
+    background-color:  #e5fff5;
+}
+ .day {
+   border: 1px solid black;
+   width: 60%;
+   margin: 2%;
+   padding: 3%;
+
+ }
